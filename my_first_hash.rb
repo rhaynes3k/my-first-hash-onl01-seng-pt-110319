@@ -47,4 +47,4 @@ shipping_manifest
   # return the shipping_manifest hash below
 
 end
-#shipping_manifest["muskets"] = 2
+shipping_manifest["muskets"] = 2
